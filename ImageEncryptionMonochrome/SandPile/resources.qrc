@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/decode.svg</file>
+        <file>Icons/encode.svg</file>
+        <file>Icons/start.svg</file>
+        <file>Icons/upload.svg</file>
+        <file>Icons/sandPileLogo.png</file>
+        <file>Icons/saveImage.svg</file>
+        <file>Icons/keys.svg</file>
+        <file>Icons/sandPile.png</file>
+    </qresource>
+</RCC>
